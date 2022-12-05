@@ -1,5 +1,5 @@
-# Math-Apps
-This repository contains materials relevant to the Bachelor's thesis: MathApps constructions in Maple and from Maple to Möbius, written by Line Glade at DTU.
+# Math Apps
+This repository contains materials relevant to the Bachelor's thesis: MathApps constructions in Maple and from Maple to Möbius, written by Line Glade at the Technical University of Denmark (DTU), December 2022.
 
 For the creation of Math Apps it is necessary to have a license for Maple.
 
